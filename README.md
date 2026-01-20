@@ -1,2 +1,2 @@
-# 3D-Personal-Website
-Portfolio Website
+# Portfolio Website
+Minimalist Portfolio
