@@ -41,7 +41,7 @@ const Navbar = () => {
             href="/"
             className="text-xl font-bold transition-colors text-neutral-400 hover:text-white"
           >
-            Portfolio
+            Jahong's Portfolio
           </a>
           <button
             onClick={() => setIsOpen(!isOpen)}
