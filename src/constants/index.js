@@ -227,36 +227,49 @@ export const mySocials = [];
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "AI Software Engineer",
+    job: "Jahong Inc",
+    date: "January 2026 – Present",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Developing an online AI education platform from scratch using Next.js, having 100+ paid users",
+      "Developing an all-in-one general agentic life information platform",
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    title: "Full Stack Developer Lead",
+    job: "1 Thing Org",
+    date: "January 2024 – May 2025",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
+      "Led 3-9 developers with Google engineering manager to develop mobile/web real-time tracker for anti-Asian hate incidents across North America using React Native, serving thousands of daily users",
+      "Optimized API latency by migrating Google Translate LROs from synchronous Flask endpoints to async Cloud Functions workers with Firestore caching, reducing response times from seconds to milliseconds",
+      "Eliminated incident data cache inconsistency across distributed App Engine instances by migrating from in-memory TTL caches to centralized Redis",
+      "Reduced onboarding time by 50% (1 week) using DevContainer, CodeSpaces, Bash and Docs",
+      "Led team to win 2nd place + most popular project at \"Hack for Impact\" NY tech week with AI coding and MCP",
+      "Improved team productivity by lecturing on AI tools and proposed Responsible AI Initiative",
     ],
   },
   {
-    title: "Freelance Developer",
-    job: "Self-Employed",
-    date: "2025-Present",
+    title: "Full Stack Developer",
+    job: "1 Thing Org",
+    date: "September 2023 – February 2024",
     contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
+      "Designed/implemented \"self-report\" system allows reporters to submit incidents with Cloud Storage attachments, admins to moderate, and users to interact with D3.js/Redux geo maps and statistics by state/date",
+    ],
+  },
+  {
+    title: "Full Stack Developer",
+    job: "Mink Inc",
+    date: "August 2023 – September 2023",
+    contents: [
+      "Independently developed three Flask sites for blind scientists with accessibility features and responsive interface",
+    ],
+  },
+  {
+    title: "Software Development Engineer Intern",
+    job: "Knobull Inc",
+    date: "2023",
+    contents: [
+      "Delivered MERN stack news site 50% (2 months) faster by leveraging open-source React-admin with REST API",
     ],
   },
 ];
