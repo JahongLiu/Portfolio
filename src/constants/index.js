@@ -46,15 +46,6 @@ export const mySocials = [];
 
 export const experiences = [
   {
-    title: "AI Software Engineer",
-    job: "Jahong Inc",
-    date: "January 2026 – Present",
-    contents: [
-      "Developing an online AI education platform from scratch using Next.js, having 100+ paid users",
-      "Developing an all-in-one general agentic life information platform",
-    ],
-  },
-  {
     title: "Full Stack Developer Lead",
     job: "1 Thing Org",
     date: "January 2024 – May 2025",
